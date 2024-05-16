@@ -10,7 +10,7 @@ The Python Strong Password Generator is a lightweight yet robust Python script d
 - **Strong Security:** The generated passwords adhere to best practices in password security, including the use of a diverse character set and sufficient length to resist brute-force attacks.
 
 ### Getting Started:
-1. **Installation:** Download the Python script (`Strong Password Generation`) and ensure you have Python installed on your system.
+1. **Installation:** Download the Python script (`Strong Password Generation.py`) and ensure you have Python installed on your system.
 2. **Configuration:** Optionally, modify the parameters within the script to customize the generated passwords according to your preferences.
 3. **Execution:** Run the script using Python, specifying any desired parameters (e.g., password length, character set).
 4. **Output:** View the generated password in the console or retrieve it from the output file, as per your chosen configuration.
